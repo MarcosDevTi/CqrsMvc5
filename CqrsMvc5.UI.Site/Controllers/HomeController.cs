@@ -9,6 +9,7 @@ namespace CqrsMvc5.UI.Site.Controllers
     public class HomeController : Controller
     {
         //Teste
+        //2 test
         public ActionResult Index()
         {
             return View();
